@@ -11,5 +11,5 @@ public class BioCalendar {
         System.out.println(vals + "라디안");
     }
     //23
-    //0.2731819698773733라디안
+    //0.2731819698773733라디안 
 }
