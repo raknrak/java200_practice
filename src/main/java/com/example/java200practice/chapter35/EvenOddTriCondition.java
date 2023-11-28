@@ -13,3 +13,4 @@ public class EvenOddTriCondition {
 //} else { D = C}는
 // D =  A? B:C 와 같다
 // B, C, D 타입이 동일해야 하고,연산 결과는 D에 대입한다.
+//
